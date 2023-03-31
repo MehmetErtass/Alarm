@@ -1,2 +1,2 @@
 # Alarm
-Uyanmak için kurmuş olduğunuz saate göre alarm çalıcaktır.
+Uyanmak için kurmuş olduğunuz saate göre alarm çalacaktır.
